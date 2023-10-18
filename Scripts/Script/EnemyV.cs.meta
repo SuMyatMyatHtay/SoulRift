@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 892eb9dd09b65d7448e4f3155b0799f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Target_obj: {instanceID: 0}
+  - _nav: {instanceID: 0}
+  - _ani: {instanceID: 0}
+  - Health_image: {instanceID: 0}
+  - HealthBar_canvas: {instanceID: 0}
+  - blood_ps: {fileID: 5799400346441895378, guid: cfca462c49b944c46965de394f8e463c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

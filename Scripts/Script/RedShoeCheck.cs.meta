@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b51746db6bcdf04388114e2d9d7ecb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _GirlObject: {instanceID: 0}
+  - InventoryManager: {instanceID: 0}
+  - RedShoeItem: {fileID: 11400000, guid: 95baa4c144584164eb6792733b35f224, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
